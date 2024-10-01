@@ -1,0 +1,38 @@
+{
+  "name": "turn-to-rad-cli",
+  "version": "1.0.0",
+  "description": "turn to rad in cli",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "love1ace",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/love1ace/turn-to-rad-cli.git"
+  },
+  "keywords": [
+    "turn",
+    "rad",
+    "converter",
+    "cli",
+    "front-end",
+    "back-end",
+    "love1ace"
+  ],
+  "bugs": {
+    "url": "https://github.com/love1ace/turn-to-rad-cli/issues"
+  },
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "homepage": "https://github.com/love1ace/turn-to-rad-cli#readme",
+  "bin": {
+    "turn-to-rad-cli": "index.js"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  }
+}
